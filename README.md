@@ -1,5 +1,5 @@
 # BADS7105
-CRM Analytics and Intelligence.
+CRM Analytics and Intelligence.2
 
 This repositories will be used for submitting homework and demonstrate the cool data analytic stuffs.
 
