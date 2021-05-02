@@ -4,8 +4,7 @@
 ## 1. Import Dataset
 ข้อมูลที่นำมาวิเคราะห์เป็นข้อมูล transaction การซื้อของใน Supermarket จำนวน 956K Records ซึ่งเป็นส่วนหนึ่งจาก Dunhumbly public dataset จาก  2 stores ในปี  2006 ถึง 2008 Import เข้า Google Big Query 
 ## 2. Feature Extraction
-จากนั้นลองสร้าง Variable ขึ้นมาจากข้อมูล Transaction
-* TOTAL_SPEND ผลรวมของยอดซื้อของลูกค้าแต่ละราย
+จากนั้นลองสร้าง Feature ขึ้นมาจากข้อมูล Transaction
 * TOTAL_VISIT จำนวน Basket ของลูกค้าแต่ละราย
 * STD_TICKET_SIZE ส่วนเบี่ยงเบนมาตรฐานของยอดซื้อของลูกค้าแต่ละราย
 * DURING_SINCE_FIRST_PURCHASE จำนวนนับจากเริ่มมี Transaction ครั้งแรก
@@ -37,8 +36,16 @@
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/clustering.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/clustering.png" width="800" height="150" />
 
+## 5. Clustering Analysis
+หลังจาก Model ได้ทำการจัดกลุ่มแล้ว ก็ลองมาสำรวจดูว่า Feature ใดมีความสำคัญในการจัดกลุ่มนี้บ้าง
+### Importance Feature
 
-## 5. Clistering Analysis
+
+### Exploratory Data Analysis
+
+
+
+
 
 ## 6. Intrepret
 
