@@ -27,6 +27,8 @@
 
 ![SSE](https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/SSE.png =250x400)
 
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/SSE.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/SSE.png" width="400" height="250" />
+
 ![Silhouette](https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Silhouette.png =250x400)
 
 จากรูปพบว่า ค่า Silhouette จะสูงที่สุด เมื่อจัดกลุ่มเป็น 3 กลุ่ม (K=3)
