@@ -24,12 +24,13 @@
 
 ## 3. Clustering Model
 ก่อนอื่น เรายังไม่รู้ว่าจะต้องจัดกลุ่มกี่กลุ่ม ไม่รู้ว่ากำหนด ค่า K เป็นเท่าไหร่ เลยลอง ดู Elbow Method และ Silhouette 
-![SSE](/image/SSE.png)
-![Silhouette](/image/Silhouette.png)
+
+![SSE](https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/SSE.png)
+
+![Silhouette](https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Silhouette.png)
 จากรูปพบว่า ค่า Silhouette จะสูงที่สุด เมื่อจัดกลุ่มเป็น 3 กลุ่ม (K=3)
 
 ทำการสร้าง  [K-Mean Clustering Model](https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/create_model.sql)
-
 
 
 ## 5. Clistering Analysis
@@ -38,7 +39,8 @@
 
 
 
-Reference:
+## Reference:
+Mode in Bigquery
 https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions
 
 SSE
