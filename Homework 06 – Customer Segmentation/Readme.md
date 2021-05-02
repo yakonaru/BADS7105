@@ -38,17 +38,47 @@
 
 ## 5. Clustering Analysis
 หลังจาก Model ได้ทำการจัดกลุ่มแล้ว ก็ลองมาสำรวจดูว่า Feature ใดมีความสำคัญในการจัดกลุ่มนี้บ้าง
+
 ### Importance Feature
 
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" width="800" height="150" />
+
+พบว่า 5 อันดับแรกได้แก่
+LENGHT_OF_STAY
+STD_MONTHLY_SPEND
+AVERAGE_MONTHLY_SPEND
+AVERAGE_MONTHLY_VISIT
+MODE_BASKET_SIZE
 
 ### Exploratory Data Analysis
+ลอง Plot Multiple density จาก Feature 5 อันบแรก
+
+LENGHT_OF_STAY
+
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/LENGHT_OF_STAY.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/LENGHT_OF_STAY.png" width="400" height="200" />
+
+STD_MONTHLY_SPEND
+
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/STD_MONTHLY_SPEND.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/STD_MONTHLY_SPEND.png" width="400" height="200" />
+
+AVERAGE_MONTHLY_SPEND
+
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/AVERAGE_MONTHLY_SPEND.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/AVERAGE_MONTHLY_SPEND.png" width="400" height="200" />
+
+AVERAGE_MONTHLY_VISIT
+
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/AVERAGE_MONTHLY_VISIT.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/AVERAGE_MONTHLY_VISIT.png" width="400" height="200" />
+
+MODE_BASKET_SIZE
+
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" width="400" height="200" />
 
 
+## 6. Interpretation
 
+จากการวิเคราะห์จาก Density multiple plot จาก Features ที่มีความสำคัญ 5 อันดับแรก พบว่า
 
-
-## 6. Intrepret
-
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/interpret.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/interpret.png" width="900" height="200" />
 
 
 ## Reference:
