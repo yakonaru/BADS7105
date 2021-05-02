@@ -36,7 +36,7 @@
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/clustering.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/clustering.png" width="800" height="150" />
 
-## 5. Clustering Analysis
+## 4. Clustering Analysis
 หลังจาก Model ได้ทำการจัดกลุ่มแล้ว ก็ลองมาสำรวจดูว่า Feature ใดมีความสำคัญในการจัดกลุ่มนี้บ้าง
 
 ### Importance Feature
@@ -74,7 +74,7 @@ MODE_BASKET_SIZE
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" width="400" height="200" />
 
 
-## 6. Interpretation
+## 5. Interpretation
 
 จากการวิเคราะห์จาก Density multiple plot จาก Features ที่มีความสำคัญ 5 อันดับแรก พบว่า
 
