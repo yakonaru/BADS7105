@@ -1,9 +1,12 @@
 รองรับภาษาไทย
 
+# Customer Segmentation
+รอบนี้จะเป็นการนำข้อมูล transaction ของ Supermarket มาลองจัดกลุ่มดู โดยข้อมูลประกอบไปด้วย transaction การซื้อของใน Supermarket จำนวน 956K Records 
+โดยเริ่มแรกจะ Import เข้า Big Query แล้วนำข้อมูลไป Aggregate ให้ได้ Feature ต่างๆ จากนั้นสร้าง Model K-Mean Clustering แล้วลองวิเคราะห์ และแปลผลลัพธ์
 
+## 1. Import Dataset
 
-
-
+## 2. Aggregate Data
 Reference:
 https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions
 
