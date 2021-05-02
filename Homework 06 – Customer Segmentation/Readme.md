@@ -41,7 +41,7 @@
 
 ### Importance Feature
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" width="800" height="150" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/imp_feature.png" width="600" height="150" />
 
 พบว่า 5 อันดับแรกได้แก่
 LENGHT_OF_STAY
