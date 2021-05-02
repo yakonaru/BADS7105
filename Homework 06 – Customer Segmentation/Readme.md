@@ -78,7 +78,7 @@ MODE_BASKET_SIZE
 
 จากการวิเคราะห์จาก Density multiple plot จาก Features ที่มีความสำคัญ 5 อันดับแรก พบว่า
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Interpret.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Interpret.png" width="900" height="150" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Interpret2.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/Interpret2.png" width="900" height="150" />
 
 
 ## Reference:
