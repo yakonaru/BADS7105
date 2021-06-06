@@ -33,7 +33,8 @@
 ซึ่สินค้า 10 อันดับนี้ เราอาจจะไม่สามารถแนะนำได้ เพราะใครๆ ก็ซื้อสินค้าเหล่านี้เป็นปกติอยู่แล้ว
 เพราะฉะนั้นจะลบสินค้าเหล่านี้ออกไปก่อน
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/result.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/result.png" width="800" height="300" />
+
 
 ## Collaborative Filtering Model
 
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/result.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/result.png" width="800" height="300" />
