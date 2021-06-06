@@ -19,7 +19,7 @@ Comment Shabu review และ Wongnai
 
 คำโดยส่วนใหญ่ที่ออกมาจาก Topic ก็จะเหมือนๆกัน ทุก Topic 
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" width="800" height="200" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" width="800" height="100" />
 
 แต่ แต่ละ Topic ก็จะมีคำอยุ่บางคำที่ Topic อื่นไม่มีเช่นกัน เพราะฉะนั้นจะลบที่เหมือนๆกันทุก Topic คำออกไป ก็จะเห็นความแตกต่างของแต่ละ Topic มากขึ้น
 
@@ -42,6 +42,6 @@ Comment Shabu review และ Wongnai
 ดังนั้นแต่ละ Topic ควรชื่อว่า
 * Topic 0 คุ้มดีเนื้ออร่อย มีเทมปุระ ซูชิ และน้ำจิ้ม
 * Topic 1 คุ้มดีเนื้ออร่อย มีเวลา
-* Topic 2 คุ้มดีเนื้ออร่อย มีลองกินหมูไก่
+* Topic 2 คุ้มดีเนื้ออร่อย มีหมูไก่
 * Topic 3 คุ้มดีเนื้ออร่อย มีหม้อมีไอติม
 * Topic 4 คุ้มดีชาบูอร่อย พนักงานบริการคุณภาพ
