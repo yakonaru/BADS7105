@@ -18,10 +18,12 @@ Comment Shabu review และ Wongnai
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/all.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/all.png" width="800" height="200" />
 
 คำโดยส่วนใหญ่ที่ออกมาจาก Topic ก็จะเหมือนๆกัน ทุก Topic 
+โดยลองทำ Intersection 
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/intersection.png" width="800" height="100" />
 
 แต่ แต่ละ Topic ก็จะมีคำอยุ่บางคำที่ Topic อื่นไม่มีเช่นกัน เพราะฉะนั้นจะลบที่เหมือนๆกันทุก Topic คำออกไป ก็จะเห็นความแตกต่างของแต่ละ Topic มากขึ้น
+โดยลองดู Different 
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/diff.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/diff.png" width="600" height="200" />
 
