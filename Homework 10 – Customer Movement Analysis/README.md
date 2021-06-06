@@ -4,6 +4,7 @@
 ## Status
 โดยการทำ Customer movement Analysis เราจะพิจารณาจากจำนวนสถานะของลูกค้ดังนี้
 |Status | Description | Condition |
+|------ | ----------- | --------------- |
 |New    | เป็นลูกค้าใหม่ในเดือนนั้น | Previous Month = Null |
 |Repeat | เป็นลูกค้าที่มีการซื้อในเดือนที่แล้ว แล้วเดือนนี้กลับมาซื้ออีก| Current Month - Previous Month = 1 |
 |Reactivated | เป็นลูกค้าที่เคยซื้อมในอดีต แต่ไม่ใช่เดือนที่แล้ว แล้วกลับมาซื้อในเดือนนี้| Current Month - Previous Month > 1 |
