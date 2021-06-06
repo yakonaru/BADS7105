@@ -16,8 +16,8 @@
 ## Result
 เมื่อได้ SQL ที่ได้ ก็จะนำไป Visualize Power BI โดยใช้ Stacked Bar Chart
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" width="400" height="200" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis/Customer_movement_dashboard.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis/Customer_movement_dashboard.png" width="800" height="300" />
 
 ถ้าทำให้ง่ายยิ่งขึ้น หรือพิจารณา Trend ของ Customer ในแต่ละสถานะ สามารถพิจารณาได้จาก Line chart เป็น time series 
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation/image/MODE_BASKET_SIZE.png" width="400" height="200" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis/Customer_movement_line_chart.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis/Customer_movement_line_chart.png" width="800" height="300" />
