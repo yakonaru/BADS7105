@@ -8,8 +8,8 @@ Comment Shabu review และ Wongnai
 2. ทำ Word Tokenize
 3. สร้าง Dictionary
 
-## Model
-ลอง Run LDA 
+## LDA Model
+
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/LDA.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/LDA.png" width="800" height="300" />
 
@@ -27,7 +27,7 @@ Comment Shabu review และ Wongnai
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/diff.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2011%20-%20Voice%20of%20Customer/diff.png" width="600" height="200" />
 
-## Intrepret
+## Interpretation
 
 จากการทดสอบพบว่า Topic Name สามารถแบ่งได้เป็น 5 Topic จากที่ดูจาก LDA Bubble chart พบว่า สามารถแบ่งกลุ่ม ได้แยกจากกันมากที่ ซึ่งโดย
 ทุกๆ Topic มี Keyword ร่วมกัน โดยจากการทำ intersect topic name กับทุกๆ Topic คือ
