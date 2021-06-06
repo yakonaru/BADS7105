@@ -51,7 +51,7 @@
 
 กลุ่มไดร์เป่าผม
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" width="300" height="300" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" width="300" height="200" />
 
 กลุ่มทาสแมว
 
