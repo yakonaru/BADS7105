@@ -7,7 +7,7 @@
 ## Data Preparation
 1. ลบข้อมูลที่เป็น Null ออก
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/raw.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/raw.png" width="800" height="100" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/raw.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/raw.png" width="800" height="300" />
 
 2. เปลี่ยน ค่าคำตอบของแบบสำรวจ จาก เคยซื้อ / ไม่เคยซื้อ สินค้าเป็น 1 / 0
 
@@ -16,7 +16,7 @@
 ## Exploratory Data Analysis
 ลอง Visualize ด้วย matplotlib ของ Python เพื่อดูว่า มีไอเทมชิ้นใดบ้าง ที่มีคนเคยซื้ออยู่มากที่สุด และไม่ค่อยมีใครซื้อเลย
 
-<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/Explore.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/Explore.png" width="800" height="300" />
+<img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/Explore.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/Explore.png" width="1000" height="400" />
 
 พบว่า สินค้าที่มีคนเคยซื้อมากที่สุด 10 อันดับได้แก่
 * ครีมกันแดด
