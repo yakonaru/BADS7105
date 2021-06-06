@@ -45,19 +45,19 @@
 ลองใช้  Graph Visualization เพื่อ Plot ดูกลุ่มที่มีโอกาสซื้อของไปด้วยกัน
 พบว่ามี 4 กลุ่มใหญ่ๆ
 
-กลุ่มแอลกอฮอล์
+1. กลุ่มแอลกอฮอล์
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph4.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph4.png" width="300" height="300" />
 
-กลุ่มไดร์เป่าผม
+2. กลุ่มไดร์เป่าผม
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph2.png" width="300" height="200" />
 
-กลุ่มทาสแมว
+3. กลุ่มทาสแมว
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph3.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph3.png" width="600" height="200" />
 
-กลุ่มอื่นๆ
+4. กลุ่มอื่นๆ
 
 <img src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph1.png" data-canonical-src="https://github.com/yakonaru/BADS7105/blob/main/Homework%2007%20%E2%80%93%20Product%20Recommendation/image/graph1.png" width="800" height="400" />
 
